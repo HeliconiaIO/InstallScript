@@ -20,7 +20,7 @@ INSTALL_WKHTMLTOPDF="True"
 # Set the default Odoo port (you still have to use -c /etc/odoo-server.conf for example to use this.)
 OE_PORT="8069"
 # Odoo 18 version (master branch as 18.0 is not yet released)
-OE_VERSION="master"
+OE_VERSION="18.0"
 # Set this to True for enterprise version
 IS_ENTERPRISE="True"
 # Install PostgreSQL 16
